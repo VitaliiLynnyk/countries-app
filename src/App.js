@@ -1,12 +1,13 @@
 import React from 'react';
 
-import './App.css';
+import { SearchBar, Card } from './components';
 
-function App() {
+export default () => {
   return (
-    <div className="App">
+    <div>
+      <h1>Countries Api</h1>
+      <SearchBar />
+      <Card />
     </div>
   );
 }
-
-export default App;
