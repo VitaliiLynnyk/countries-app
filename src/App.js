@@ -5,7 +5,7 @@ import { SearchBar, Card } from './components';
 
 import './App.css'
 
-class App extends Component {
+export default class App extends Component {
 
   state = {
     data: [],
@@ -39,5 +39,3 @@ class App extends Component {
     );
   }
 }
-
-export default App;

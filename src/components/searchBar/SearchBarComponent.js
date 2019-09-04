@@ -25,7 +25,6 @@ export default function SearchBarComponent(props) {
 
   return (
     <Select
-      className='react-select-container'
       options={options}
       onChange={props.handleChange}
       styles={colourStyles}
