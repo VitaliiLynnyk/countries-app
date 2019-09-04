@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/countries-app/static/css/main.765cb144.chunk.css",
+    "main.js": "/countries-app/static/js/main.53eaa5bd.chunk.js",
+    "main.js.map": "/countries-app/static/js/main.53eaa5bd.chunk.js.map",
+    "runtime~main.js": "/countries-app/static/js/runtime~main.e95b6172.js",
+    "runtime~main.js.map": "/countries-app/static/js/runtime~main.e95b6172.js.map",
+    "static/css/2.c0851dc3.chunk.css": "/countries-app/static/css/2.c0851dc3.chunk.css",
+    "static/js/2.e9443d50.chunk.js": "/countries-app/static/js/2.e9443d50.chunk.js",
+    "static/js/2.e9443d50.chunk.js.map": "/countries-app/static/js/2.e9443d50.chunk.js.map",
+    "index.html": "/countries-app/index.html",
+    "precache-manifest.efc0438c72ac055ba54ba85ff20c77e6.js": "/countries-app/precache-manifest.efc0438c72ac055ba54ba85ff20c77e6.js",
+    "service-worker.js": "/countries-app/service-worker.js",
+    "static/css/2.c0851dc3.chunk.css.map": "/countries-app/static/css/2.c0851dc3.chunk.css.map",
+    "static/css/main.765cb144.chunk.css.map": "/countries-app/static/css/main.765cb144.chunk.css.map"
+  }
+}
